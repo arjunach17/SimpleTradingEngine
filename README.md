@@ -1,6 +1,6 @@
 
 ***
-# 📈 Mini Trading Engine
+#  Mini Trading Engine
 
 A super simple, lightweight, in-memory order book built with Java and Spring Boot. 
 
